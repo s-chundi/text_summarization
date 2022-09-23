@@ -5,7 +5,7 @@ Too often we are required to read long passages of text that we are not interest
 
 ### Instructions:
 <ol>
-<li>Clone this repo</li>
+<li>Clone this repo (Or just open the ipynb in colab)</li>
 <li>Copy your text into the "text" variable</li>
 <li>Run all cells</li>
 <li>Profit</li>
